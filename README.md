@@ -22,7 +22,7 @@ This project uses *FPDF* and *Pandas* to automatically design multipage PDFs wit
 ---
 
 ## 📂 Project Structure
-📦 PDF Generator Tool 
+
 ┣ 📜 main.py          
 # Main script to generate PDFs 
 ┣ 📜 topics.csv       
