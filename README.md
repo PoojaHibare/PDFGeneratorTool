@@ -23,8 +23,8 @@ This project uses *FPDF* and *Pandas* to automatically design multipage PDFs wit
 
 ## 📂 Project Structure
 ┣ 📜 main.py          
-# Main script to generate PDFs 
+Main script to generate PDFs 
 ┣ 📜 topics.csv       
-# CSV file containing topics and page counts 
+CSV file containing topics and page counts 
 ┗ 📜 output.pdf        
-# Resulting PDF
+Resulting PDF
